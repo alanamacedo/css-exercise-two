@@ -58,10 +58,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  background-color: yellow;
-}
-
 article {
   padding-top: 100px;
 }
@@ -70,3 +66,8 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+
+a:hover {
+  background-color: yellow;
+}
+# css-exercise-two
