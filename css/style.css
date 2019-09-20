@@ -15,8 +15,12 @@ h3 {
   font-size: 16px;
 }
 
+p + p {
+  margin-top: 8px
+}
+
 nav {
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(0,0,0,.3);
   float: left;
   position: fixed;
   width: 100%;
@@ -70,4 +74,4 @@ article {
 a:hover {
   background-color: yellow;
 }
-# css-exercise-two
+
