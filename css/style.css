@@ -26,6 +26,10 @@ nav {
   width: 100%;
 }
 
+.nav-link a{
+  color: #212121;
+}
+
 .logo {
   margin: 20px;
   width: 100px;
@@ -72,6 +76,6 @@ article {
 }
 
 a:hover {
-  background-color: yellow;
+  color: #008BE1;
 }
-
+# css-exercise-two
